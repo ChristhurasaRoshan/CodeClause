@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903597744533",
+    "project_id": "my-sticky-notes-pro",
+    "storage_bucket": "my-sticky-notes-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903597744533:android:26240c6f9c980c2326d69c",
+        "android_client_info": {
+          "package_name": "com.example.mystickynotespro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD184YnncfvbAGV1zpWtiFZPLFSw_rGO0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
